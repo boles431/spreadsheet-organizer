@@ -3,6 +3,3 @@ A Streamlit-based web application that allows users to efficiently organize Exce
 
 
 #commit test
-
-git config --global user.name "boles431"
-git config --global user.email "your-email@example.com"
